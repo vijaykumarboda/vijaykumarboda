@@ -2,7 +2,7 @@
 - 👀 I’m interested in Azure Data Factory
 - 🌱 I’m currently working as Azure Data Engineer
 - 💞️ I’m looking to collaborate with Azure Data Factory organisations
-- 📫 How to reach me through "mail:bodavijaykumar123@gmail.com"
+- 📫 How to reach me through "mail:bodavijaykumar1123@gmail.com"
 
 <!---
 vijaykumarboda/vijaykumarboda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
