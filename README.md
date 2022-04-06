@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vijaykumarboda
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate with Data Science organisations
+- 👀 I’m interested in Azure Data Factory
+- 🌱 I’m currently working as Azure Data Engineer
+- 💞️ I’m looking to collaborate with Azure Data Factory organisations
 - 📫 How to reach me through "mail:bodavijaykumar123@gmail.com"
 
 <!---
